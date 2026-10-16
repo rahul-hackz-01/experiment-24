@@ -1,0 +1,18 @@
+{
+  "id": "/",
+  "short_name": "LibraryApp",
+  "name": "Campus Central Library Management System",
+  "description": "Progressive Web Application for College Library Management",
+  "icons": [
+    { "src": "/icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any" },
+    { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "type": "image/png", "sizes": "512x512", "purpose": "maskable" },
+    { "src": "/favicon.svg", "type": "image/svg+xml", "sizes": "any" }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "background_color": "#faf5f2",
+  "theme_color": "#5e1229",
+  "display": "standalone",
+  "orientation": "any"
+}
